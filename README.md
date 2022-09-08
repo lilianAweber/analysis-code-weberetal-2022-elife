@@ -1,8 +1,8 @@
 This repository contains all analysis steps for producing the results presented in:
 
-Weber LA, Tomiello S, Schöbi D, Wellstein KV, Müller D, Iglesias S, Stephan KE (2021).
+Weber LA, Tomiello S, Schöbi D, Wellstein KV, Müller D, Iglesias S, Stephan KE (2022).
 Auditory mismatch responses are differentially sensitive to changes in muscarinic 
-acetylcholine versus dopamine receptor function. _bioRxiv_, doi:10.1101/2021.03.18.435979
+acetylcholine versus dopamine receptor function. _eLife_ 11:e74835, doi:10.7554/eLife.74835
 ======================================================================================
 
 |           |                                                |
